@@ -1,10 +1,34 @@
 body{
-    background-color: rgb(228, 206, 177) ;
+    background-color: #F8F8FF ;
 }
 .zag-small{
     font-size: 20px;
-    background-color: beige;
-    padding: 5px 10px;
-    width: 220px;
+    background-color: #F54748;
+    padding: 15px 15px;
+    width: 230px;
     border-radius: 15px;
+}
+.btn-primary-cust{
+    background-color: #F54748 ;
+    border: 2px solid #F54748;
+    border-radius:100px ;
+    color: white;
+}
+.btn-primary-cust:hover{
+    background-color:#F54748 ;
+    border:2px solid #F54748  ;
+    border-radius:100px ;
+    color: white;
+}
+.btn-outline-primary{
+    background-color: #F54748 ;
+    border: 2px solid #F54748;
+    border-radius:100px ;
+    color: white;
+}
+.btn-outline-primary:hover{
+    background-color: #F54748 ;
+    border: 2px solid #F54748;
+    border-radius:100px ;
+    color: white;
 }
