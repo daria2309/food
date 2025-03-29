@@ -1,34 +1,45 @@
-body{
-    background-color: #F8F8FF ;
-}
 .zag-small{
     font-size: 20px;
-    background-color: #F54748;
+    background-color: #efc82b;
     padding: 15px 15px;
     width: 230px;
     border-radius: 15px;
 }
 .btn-primary-cust{
-    background-color: #F54748 ;
-    border: 2px solid #F54748;
+    background-color: #efc82b ;
+    border: 2px solid #efc82b;
     border-radius:100px ;
     color: white;
 }
 .btn-primary-cust:hover{
-    background-color:#F54748 ;
-    border:2px solid #F54748  ;
+    background-color:#efc82b ;
+    border:2px solid #efc82b  ;
     border-radius:100px ;
     color: white;
 }
 .btn-outline-primary{
-    background-color: #F54748 ;
-    border: 2px solid #F54748;
+    background-color: #efc82b ;
+    border: 2px solid #efc82b;
     border-radius:100px ;
     color: white;
 }
 .btn-outline-primary:hover{
-    background-color: #F54748 ;
-    border: 2px solid #F54748;
+    background-color: #efc82b ;
+    border: 2px solid #efc82b;
     border-radius:100px ;
     color: white;
+    
+}
+.gr{
+    background:linear-gradient(90deg, #eaf28f,#cde8b5,#fff2d5,#f7fadb);
+}
+.yt{
+    background:linear-gradient(90deg, #eaf28f,#cde8b5,#fff2d5,#f7fadb);
+}
+body{
+    background:linear-gradient(90deg, #eaf28f,#cde8b5,#fff2d5,#f7fadb)
+}
+.card{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 }
