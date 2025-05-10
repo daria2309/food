@@ -1,0 +1,60 @@
+.zag-small{
+    font-size: 20px;
+    background-color: #1c9a24;
+    padding: 15px 15px;
+    width: 230px;
+    border-radius: 15px;
+    color: white;
+}
+.btn-primary-cust{
+    background-color: #1c9a24 ;
+    border: 2px solid #1c9a24;
+    border-radius:100px ;
+    color: white;
+}
+.btn-primary-cust:hover{
+    background-color:#1c9a24 ;
+    border:2px solid #1c9a24  ;
+    border-radius:100px ;
+    color: white;
+}
+.btn-outline-primary{
+    background-color: #1c9a24 ;
+    border: 2px solid #1c9a24;
+    border-radius:100px ;
+    color: white;
+}
+.btn-outline-primary:hover{
+    background-color: #1c9a24 ;
+    border: 2px solid #1c9a24;
+    border-radius:100px ;
+    color: white;
+    
+}
+.gr{
+    background:linear-gradient(90deg, #eaf28f,#cde8b5,#fff2d5,#f7fadb);
+
+}
+.yt{
+    background:linear-gradient(90deg, #eaf28f,#cde8b5,#fff2d5,#f7fadb);
+}
+body{
+    background:linear-gradient(90deg, #eaf28f,#cde8b5,#fff2d5,#f7fadb)
+}
+.card{
+    background-color: #F3D5DF;
+    border-radius: 100px 100px 0px 0px;
+}
+.btn-primary{
+    background-color: #1c9a24 ;
+    border: 2px solid #1c9a24;
+    border-radius:100px ;
+    color: white;
+}
+.sayt{
+    border-radius:100px 100px 0px 0px;
+}
+.two-img{
+    display: flex;
+    justify-content: space-between;
+}
